@@ -1,4 +1,1 @@
-Hi, I am Tausif Al Zubayer. I am passionate about coding and currently I am learning Python and JavaScript.
-I am already well acquainted with C, C++ and Java.
-I am interested in machine learning and data science.
-I would like to collaborate on open source projects.
+Hi, I am Tausif Al Zubayer. I am a passionate software developer with more than 2 years of experience of working in a collaborative team environment and following standard agile methodology to develop real world software solutions. I utilize standard design patterns and coding practices to turn business requirements and system specifications into complex business logic implementation.
